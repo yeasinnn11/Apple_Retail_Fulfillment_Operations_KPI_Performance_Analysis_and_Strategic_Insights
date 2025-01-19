@@ -15,7 +15,7 @@ Understanding regional dynamics, shipment efficiency, and product-level profitab
 **Supply Chain Optimization:** Identify actionable strategies to improve shipment times, reduce operational costs, and enhance regional and product-level profitability.
 
 
-## Dashboard Overview [Link🔗]([https://1drv.ms/x/s!Ak0-JOmIIVIAgltBw5ksUjowEZB5?e=0oY7wG](https://public.tableau.com/app/profile/yeasin.arafat8654/viz/AppleRetailFulfillmentOperationsKPIPerformanceAnalysisandStrategicInsights/OperationalandRegionalSalesPerformanceOverview))
+## Dashboard Overview [Link🔗]([https://public.tableau.com/app/profile/yeasin.arafat8654/viz/AppleRetailFulfillmentOperationsKPIPerformanceAnalysisandStrategicInsights/OperationalandRegionalSalesPerformanceOverview])
 
 ## Executive Summary 
 
