@@ -92,6 +92,74 @@ Products such as the Apple TV 4K, while achieving moderate revenue ($33.33 milli
 highlighting areas for strategic realignment or cost reduction efforts. Conversely, flagship devices like the MacBook Pro not only 
 drive revenue but also deliver the highest margins, emphasizing their importance in Apple’s portfolio.
 
+## Supply Chain Optimization
+
+**1. Sales Channel Analysis**
+The sales are nearly evenly split between Online and Offline channels.
+
+Online Sales account for $875.67M, indicating a robust presence in the e-commerce sector.
+Offline Sales slightly surpass online figures at $879.68M, reflecting strong traditional retail engagement.
+
+![dfsdfdf](https://github.com/user-attachments/assets/ebc04950-6349-4c26-894d-cb4c30c0191a)
+
+This balanced performance across channels ensures diverse customer reach and stability in sales operations.
+
+
+**2. Total Cost Per Year (2020–2024)**
+Operational costs exhibit a fluctuating yet controlled pattern over the years:
+
+2020: $216.08M
+2021: $226.53M
+2022: $241.24M (highest)
+2023: $230.88M
+2024: $226.90M
+
+![fdffgfd](https://github.com/user-attachments/assets/18a12e96-7cee-4cf4-a669-ae16a6ada7cc)
+
+
+The peak in 2022 could be attributed to increased logistics, inflation, or expanded business activities. Post-2022, costs stabilized, indicating effective cost-control measures.
+
+**3. Priority-wise Orders**
+Orders across priority categories (Critical, High, Low, Medium) demonstrate almost identical distribution, each hovering around $25M:
+
+Critical: $24.94M
+High: $25.07M
+Low: $25.01M
+Medium: $24.99M
+
+
+![gfhfgh](https://github.com/user-attachments/assets/6d89ea45-daa3-4505-9834-0c2d319c7627)
+
+
+This even distribution signifies an equal focus on all order priorities, ensuring timely fulfillment regardless of urgency.
+
+**4. Shipments Per Year (2020–2024)**
+The number of shipments shows steady growth, with minor variations:
+
+2020: 18.96K
+2021: 19.83K
+2022: 21.02K (highest)
+2023: 20.03K
+2024: 20.17K
+
+![fg](https://github.com/user-attachments/assets/202c28c0-199f-4947-8022-d01a05a40641)
+
+The rise in shipments aligns with increased customer demand and improved logistics. The slight dip in 2023 may indicate operational adjustments or external disruptions, followed by recovery in 2024.
+Key Insights and Recommendations
+
+
+## Key Insights and Recommendations
+
+**Balanced Sales Channels:** With near-equal contributions from online and offline sales, focus on leveraging digital marketing and physical retail expansions to sustain this equilibrium.
+
+**Cost Optimization:** While costs have stabilized, monitoring future trends and enhancing efficiency in supply chain operations is crucial to maintain profitability.
+
+**Order Priority Management:** The even distribution of order priorities reflects operational consistency. Investing in automation can further enhance timely delivery.
+
+**Shipment Growth:** A steady increase in shipments indicates business growth. Exploring partnerships with logistics providers can help handle future increases seamlessly.
+
+This data reflects a well-balanced and growing business, supported by stable costs, efficient order handling, and reliable shipment management. Strategic investments in technology and process improvements will ensure continued success.
+
 ## Supply Chain Optimization Recommendations
 
 Regional Focus:
