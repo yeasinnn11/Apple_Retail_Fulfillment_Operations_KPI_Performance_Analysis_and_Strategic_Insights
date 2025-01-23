@@ -6,13 +6,13 @@ Understanding regional dynamics, shipment efficiency, and product-level profitab
 
 ## Research Objectives
 
-**Evaluate Regional Sales Performance:** Assess the profit and revenue contributions of different global regions and pinpoint high-performing and underperforming countries.
+**1. Evaluate Regional Sales Performance:** Assess the profit and revenue contributions of different global regions and pinpoint high-performing and underperforming countries.
 
-**Analyze Correlation Between Sales and Operational Metrics:** Study the relationship between shipment days and revenue trends over recent years to identify operational bottlenecks.
+**2. Analyze Correlation Between Sales and Operational Metrics:** Study the relationship between shipment days and revenue trends over recent years to identify operational bottlenecks.
 
-**Product-Level Financial Insights:** Examine product-specific profitability, cost structures, and sales data to determine opportunities for improvement in the product mix.
+**3. Product-Level Financial Insights:** Examine product-specific profitability, cost structures, and sales data to determine opportunities for improvement in the product mix.
 
-**Supply Chain Optimization:** Identify actionable strategies to improve shipment times, reduce operational costs, and enhance regional and product-level profitability.
+**4. Supply Chain Optimization:** Identify actionable strategies to improve shipment times, reduce operational costs, and enhance regional and product-level profitability.
 
 
 ## Dashboard Overview [Link🔗](https://public.tableau.com/app/profile/yeasin.arafat8654/viz/AppleRetailFulfillmentOperationsKPIPerformanceAnalysisandStrategicInsights/OperationalandRegionalSalesPerformanceOverview)
